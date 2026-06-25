@@ -1,84 +1,90 @@
-# 👋 Hi, I'm Nupur Patankar
+<h1 align="center">Hi 👋, I'm Nupur Patankar</h1>
+<h3 align="center">Electronics & Communication Engineering Student</h3>
 
-### 🎓 B.Tech Electronics & Communication Engineering Student
-
-💡 Passionate about **Embedded Systems, VLSI, IoT, and MATLAB/Simulink**. I enjoy designing, simulating, and building practical engineering solutions that bridge hardware and software.
-
----
-
-## 🚀 About Me
-
-- 🎓 Fourth-Year B.Tech Electronics & Communication Engineering Student
-- ⚡ Interested in Embedded Systems, VLSI, and IoT
-- 📊 Enjoy working with MATLAB & Simulink
-- 🌱 Currently learning Embedded C and CAN Protocol
-- 🔬 Exploring AI applications in Electronics
-- 🤝 Always eager to learn and build practical engineering projects
+<p align="center">
+Passionate about <b>Embedded Systems</b>, <b>VLSI</b>, <b>IoT</b>, and <b>MATLAB/Simulink</b>.
+I enjoy designing, simulating, and building practical engineering solutions.
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-### Programming
-- C
-- C++
-- Python
-- MATLAB
+🎓 Third-Year B.Tech Electronics & Communication Engineering Student
 
-### Embedded Systems
-- Arduino
-- ESP32
-- 8085 & 8086 Basics
-- Embedded C (Learning)
+🌱 Currently learning
+- Embedded C
+- CAN Protocol
+- Verilog
+- PCB Design
 
-### Software & Tools
-- MATLAB
-- Simulink
-- Proteus
-- Git & GitHub
-
-### Areas of Interest
+💡 Interested in
 - Embedded Systems
 - VLSI
 - IoT
 - Digital Electronics
 - Communication Systems
 
+📊 Love working with MATLAB & Simulink
+
+🎯 Goal
+- Build industry-ready embedded systems and VLSI skills.
+
 ---
 
-## 📂 Featured Projects
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode" />
+
+</p>
+
+### Engineering Tools
+
+- MATLAB
+- Simulink
+- Proteus
+- Arduino IDE
+
+---
+
+## 🚀 Projects
 
 - 🌱 Smart Irrigation System
 - 📡 IoT Projects
-- 📊 MATLAB & Simulink Models
-- 💡 Embedded Systems Projects
+- ⚙️ Embedded Systems Projects
+- 📈 MATLAB & Simulink Models
+
+*(More coming soon...)*
 
 ---
 
-## 📜 Experience
+## 💼 Experience
 
-### Blueberry Semiconductor (Internship)
+### Blueberry Semiconductor Intern
 
 - Basics of Electronics
-- 8085 & 8086 Microprocessors
+- 8085 & 8086 Programming
 - Digital Electronics
-- Hands-on Embedded Systems Exposure
+- Embedded Systems Fundamentals
 
 ---
 
-## 📚 Currently Learning
+## 🏆 Certifications & Activities
 
-- Embedded C
-- CAN Protocol
-- Verilog
-- PCB Design
+- MATLAB & Simulink
+- Scout & Guide
+- Theatre
+- Kathak
+- Elementary Drawing Examination
 
 ---
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: [*(Add your LinkedIn link)*](https://www.linkedin.com/in/nupur-patankar/)
+💼 **LinkedIn:** [https://linkedin.com/in/your-link](https://www.linkedin.com/in/nupur-patankar/)
 
 ---
 
-⭐ *"Learning by building practical engineering solutions."*
+⭐ *"Learning through building, experimenting, and solving engineering problems."*
